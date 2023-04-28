@@ -1,0 +1,237 @@
+body {
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+}
+.fund {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.start {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(112, 163, 221);
+    color: white;
+    border-color:  rgb(36, 36, 202);
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+}
+
+.phone {
+    width: 300px;
+}
+
+.stay {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.to {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+
+.you {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.can {
+    width: 50px;
+    padding: 10% 40%;
+}
+
+.for {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.man {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.mon {
+    width: 50px;
+    padding: 10% 40%;
+}
+.set {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.earn {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.inter {
+    width: 50px;
+    padding: 10% 40%;
+}
+.rest {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.avoid {
+    background-color: rgb(70, 70, 212);
+    width: 1700px;
+}
+
+.pics {
+    width: 1600px;
+}
+
+.lion {
+    padding: 10%;
+}
+
+.free{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color:  black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 50px;   
+}
+
+.iphone {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+    background-color: white;
+    border-color: rgb(223, 219, 219);
+}
+
+.apple {
+    width: 20px;
+}
+
+.android {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+    background-color: white;
+    border-color: rgb(223, 219, 219)
+}
+
+.nokia {
+    width: 20px;
+}
+
+.as {
+    background-color: rgba(245, 245, 245, 0.233);
+}
+
+.africa {
+    padding: 10%;
+}
+
+.dian {
+    padding: 10%;
+}
+
+.tech {
+    padding: 10%;
+}
+
+.black {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 200px;
+    padding-right: 50%; 
+}
+
+.audit {
+    width: 150px;
+    border-color: rgb(206, 198, 198);
+    padding-right: 50%;
+}
+
+.blue {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 200px;
+    padding-right: 50%;
+    justify-items: flex-start;
+}
+
+.index {
+    font-size: xx-large;
+    justify-items: flex-end;
+}
+@media  screen and (max-width: 500px) {
+body {
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+} 
+.africa {
+    padding: 10%;
+    width: 200px;
+}
+.dian {
+    width: 200px;
+}
+.tech {
+    padding: 10%;
+    width: 200px;
+}
+.pics {
+    width: 500px;
+}
+.avoid {
+    background-color: rgb(84, 182, 238);
+    width: 500px;
+}
+.allow {
+    padding: 10%;
+}
+.void {
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+}
+}
+

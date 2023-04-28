@@ -1,0 +1,317 @@
+body {
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+}
+.rep {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color:  black;
+    margin-top: 5%;
+    height: 50px;
+}
+
+.phone {
+    width: 300px;
+}
+
+.png {
+    width: 100px;
+    padding: 10% 40%;
+}
+
+.furry {
+    padding-left: 20%;
+    padding-right: 15%;
+}
+
+.uses {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+
+.ways {
+    padding-left: 20%;
+    padding-right: 15%;
+}
+
+.earn {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.start {
+    width: 100px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color:  black;
+    margin-bottom: 5%;
+    height: 40px;
+}
+
+.auto {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.can {
+    width: 50px;
+    padding: 10% 40%;
+}
+
+.terms {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.fixed {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.mon {
+    width: 50px;
+    padding: 10% 40%;
+}
+.set {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.oal {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.inter {
+    width: 50px;
+    padding: 10% 40%;
+}
+.rest {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.flex {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.media {
+    width: 50px;
+    padding: 10% 40%;
+}
+
+.trans {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.inve {
+    width: 300px;
+    margin-bottom: 10%;
+}
+
+.upto {
+    color: purple;
+    background-color: rgb(247, 231, 247);
+    border-color: rgb(247, 231, 247);
+    border-radius: 15px;
+    margin-right: 10%;
+    height: 25px;
+    margin-bottom: 5%;
+}
+
+.meet {
+    background-color: rgb(70, 70, 212);
+    width: 1700px;
+}
+
+.pics {
+    width: 1600px;
+}
+
+.lion {
+    padding-top: 15%;
+}
+
+.free{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-color:  black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 50px;   
+}
+
+.iphone {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+    background-color: white;
+    border-color: rgb(223, 219, 219);
+}
+
+.apple {
+    width: 20px;
+}
+
+.android {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+    background-color: white;
+    border-color: rgb(223, 219, 219)
+}
+
+.nokia {
+    width: 20px;
+}
+
+.as {
+    background-color: rgba(245, 245, 245, 0.233);
+}
+
+.africa {
+    padding: 10%;
+}
+
+.dian {
+    padding: 10%;
+}
+
+.tech {
+    padding: 10%;
+}
+
+.black {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 200px;
+    padding-right: 50%; 
+}
+
+.audit {
+    width: 150px;
+    border-color: rgb(206, 198, 198);
+    padding-right: 50%;
+}
+
+.blue {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 200px;
+    padding-right: 50%;
+    justify-items: flex-start;
+}
+
+.index {
+    font-size: xx-large;
+    justify-items: flex-end;
+}
+
+.since{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10%;
+}
+
+.cure{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10%;
+}
+
+.vest{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+@media  screen and (max-width: 500px) {
+body {
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+} 
+.africa {
+    padding: 10%;
+    width: 200px;
+}
+.dian {
+    width: 200px;
+}
+.tech {
+    padding: 10%;
+    width: 200px;
+}
+.pics {
+    width: 500px;
+}
+.meet {
+    background-color: rgb(26, 11, 236);
+    width: 500px;
+    color: white;
+}
+.shine {
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+}
+.the {
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+}
+}
+

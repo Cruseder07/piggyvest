@@ -1,0 +1,225 @@
+body {
+    background-color: white;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 80px;
+}
+
+.pics {
+    width: 300px;
+}
+
+.auto {
+    background-color: rgba(245, 245, 245, 0.233);
+    justify-content: space-between;
+    border-radius: 20px;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.matic {
+    width: 50px;
+    align-items: center;
+    padding: 10% 40%;
+}
+.ally {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.fixe {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.on {
+    width: 50px;
+    padding: 10% 40%;
+}
+
+.the {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.build {
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.disc {
+    width: 50px;
+    padding: 10% 40%;
+}
+
+.line {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    justify-content: space-between;
+}
+
+.small {
+     background-color: rgb(39, 39, 228);
+     color: white;
+}
+
+.your {
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 0%;
+}
+
+.per {
+    padding: 5%;
+    padding-bottom: 10%;
+}
+
+.man {
+    width: 1600px
+}
+
+.acct {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.iphone {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: rgb(238, 230, 230);
+}
+
+.apple {
+    width: 20px;
+    padding-right: 5px;
+}
+
+.android {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: rgb(238, 230, 230);
+    margin-bottom: 15%;
+}
+
+.lion {
+    padding: 10%;
+}
+
+.nokia {
+    width: 20px;
+    padding-right: 5px;
+}
+
+.today {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(36, 36, 202);
+    color: white;
+    border-color:  rgb(36, 36, 202);
+    margin-top: 5%;
+    margin-bottom: 15%;
+    height: 50px;
+}
+
+.as {
+    padding-top: 10px;
+    background-color: rgba(245, 245, 245, 0.233);
+}
+
+.strict {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.in {
+    padding-top: 10%;
+}
+
+.africa {
+    padding: 10%;
+}
+
+.dian {
+    padding: 10%;
+}
+
+.tech {
+    padding: 10%;
+}
+
+.black {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 200px;
+    padding-right: 50%;
+}
+
+.logo {
+    width: 150px;
+    border-color: rgb(206, 198, 198);
+    padding-right: 50%;
+}
+
+@media screen and (max-width: 500px){
+    body {
+        text-align: center;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+        font-family:Arial, Helvetica, sans-serif;
+        padding-top: 80px;
+    } 
+    .africa {
+        padding: 10%;
+        width: 200px;
+    }
+    .dian {
+        width: 200px;
+    }
+    .tech {
+        padding: 10%;
+        width: 200px;
+    }
+    .man {
+        width: 500px;
+    }
+    .small {
+        background-color: rgb(84, 182, 238);
+        width: 500px;
+    }
+    .per {
+        padding: 10%;
+    }
+    .your {
+        padding-left: 10%;
+        padding-top: 10%;
+        padding-right: 10%;
+    }
+}
